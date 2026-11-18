@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040318
+# Name:PriyaDharshini E
+# Date:18/11/2026
 
 
 # AIM:
@@ -31,6 +31,7 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
 
+
 Representing the goals of system-user interactions
 
 Defining and organizing functional requirements in a system
@@ -41,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ac1673d6-987a-4a50-a2d6-c37142a687de" />
 
 
 
@@ -59,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e14e9b7f-e5ac-4d3f-9916-8bc565123911" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cccde423-1eb2-4559-a0a2-7ea20bbd3ce8" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/9721bc2d-6846-4985-acb5-3251847a8c8f" />
 
 
 
@@ -98,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![Uploading image.png…]()
 
 
 
@@ -119,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![Uploading image.png…]()
 
 
 
